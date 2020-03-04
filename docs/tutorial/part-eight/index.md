@@ -50,7 +50,7 @@ gatsby serve
 
 現在你將要第一次運行 Lighthouse 測試。
 
-1.  如果你還沒有這麼做過，請：在 Chrome 隱身模式下打開你的網站，這樣就沒有瀏覽器擴展干擾測試。然後打開 Chrome 開發者工具。
+1.  如果你還沒有這麼做過，請：在 Chrome 隱身模式下打開你的網站，這樣就沒有瀏覽器擴展幹擾測試。然後打開 Chrome 開發者工具。
 
 2.  點擊 “Audits” 標籤，然後你會在屏幕上看到這樣的內容：
 
@@ -111,7 +111,7 @@ npm install --save gatsby-plugin-manifest
 }
 ```
 
-這就是開始向 Gatsby 網站添加網絡清單所需的全部了。給出的示例包含基本的配置——請查看 [插件應用](/packages/gatsby-plugin-manifest/?=gatsby-plugin-manifest#automatic-mode) 來了解更多配置選項。
+這就是開始向 Gatsby 網站添加網絡清單所需的全部了。給出的示例包含基本的配置——請查看 [插件應用](/packages/gatsby-plugin-manifest/?=gatsby-plugin-manifest#automatic-mode) 來瞭解更多配置選項。
 
 ## 添加離線支持
 
