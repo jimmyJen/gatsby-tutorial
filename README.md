@@ -3,8 +3,6 @@
 
 這是 Gatsby 繁體中文文檔倉庫。
 
-請認真參閱 [Translation Progress Issue](https://github.com/gatsbyjs/gatsby-zh-Hans/issues/1) 後開始翻譯。
-
 有用的鏈接：
 
 - [風格指南](/style-guide.md)
