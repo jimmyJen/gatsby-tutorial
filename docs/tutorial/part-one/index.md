@@ -385,4 +385,4 @@ surge public/
 - 學習了 Gatsby 頁面組件和子組件
 - 學習了 React “props” 和 React 組件的複用
 
-現在，繼續閱讀如何 [**為你的網站添加樣式**](/docs/tutorial/part-two/)！
+現在，繼續閱讀如何 [**為你的網站添加樣式**](/docs/tutorial/part-two/index.md)！
